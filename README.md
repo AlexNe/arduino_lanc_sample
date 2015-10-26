@@ -42,11 +42,7 @@ Normal command | Type:(BIN 00101000 | DEC 40 | HEX 28)
 	73	01001001	49	White balance toggle (only cameras until approx. 1996)
 	75	01001011	4B	Backlight (not DV)
 	81	01010001	51	Backlight (DV)
-	83	01010011	53	Exposure auto/man. toggle (models of the early 90's)
-
-Iris more close
-
-	DEC	BIN	HEX	CODE_NAME
+	83	01010011	53	Exposure auto/man. toggle (models of the early 90's) Iris more close
 	85	01010101	55	Iris more open
 	97	01100001	61	Shutter (models of the early 90's)
 	119	01110111	77	White balance reset (not if white balance is selected via menu)
