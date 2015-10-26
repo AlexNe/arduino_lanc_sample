@@ -50,7 +50,6 @@ Normal command | Type:(BIN 00101000 | DEC 40 | HEX 28)
 	135	10000111	87	Color / Mode (models of the early 90's)
 	137	10001001	89	Superimpose (models of the early 90's)
 	175	10101111	AF	Iris auto
-	DEC	BIN	HEX	
 
 Normal command to VTR or video camera | Type:(BIN 00011000 | HEX 18 | DEC 24)
 
